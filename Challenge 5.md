@@ -1,5 +1,3 @@
-## 5. Group by age
-
 CREATE TABLE challenge_5 (
     id INTEGER PRIMARY KEY,
     Name VARCHAR(10),
