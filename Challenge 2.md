@@ -1,4 +1,4 @@
-##2. Select all the divisions that have had revenue this year
+## 2. Select all the divisions that have had revenue this year
 ```sql
 
 CREATE TABLE challenge (
