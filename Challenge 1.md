@@ -1,5 +1,7 @@
 ## Challenge 1 : Select each number as its opposite
 
+```sql
+
 CREATE TABLE challenge (
     id INTEGER PRIMARY KEY, 
     value INTEGER 
