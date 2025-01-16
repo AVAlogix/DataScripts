@@ -1,4 +1,4 @@
-3. Find the century for the year
+## 3. Find the century for the year
 ```sql
 
 CREATE TABLE challenge (
