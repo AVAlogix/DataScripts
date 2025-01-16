@@ -1,4 +1,5 @@
 3. Find the century for the year
+```sql
 
 CREATE TABLE challenge (
     id INTEGER PRIMARY KEY,
