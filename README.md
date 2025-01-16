@@ -61,13 +61,3 @@ This repository is licensed under the MIT License. See the LICENSE file for more
 - **Contributing**: Encourages contributions from others.
 - **License**: Mention the license under which the repository is shared (MIT License in this case).
 
-### Example of Creating a Database and Running the Queries:
-
-```sql
--- Create a new database
-CREATE DATABASE sql_challenges;
-
--- Use the created database
-USE sql_challenges;
-
--- Copy and paste the challenges here to run them
