@@ -1,4 +1,5 @@
 ##4. Even or odd
+```sql
 
 CREATE TABLE challenge_4 (
     id INTEGER PRIMARY KEY,
