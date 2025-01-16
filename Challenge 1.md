@@ -1,4 +1,4 @@
-## Challenge 1 : Select each number as its opposite
+## 1 : Select each number as its opposite
 
 ```sql
 
