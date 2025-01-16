@@ -1,4 +1,5 @@
 ##2. Select all the divisions that have had revenue this year
+```sql
 
 CREATE TABLE challenge (
     Division_id INTEGER,
